@@ -1,4 +1,0 @@
-fastai>=2.0.0
-graphviz
-nbdev>=0.2.12
-voila
